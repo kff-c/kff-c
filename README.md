@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kff-c
 - 👀 I’m interested in Web Porgramming
-- 🌱 I’m currently learning Arma 3 programming
+- 🌱 I’m currently learning Arduino programming
 
 - 📫 How to reach me www.instagram.com/k_fc_
 
